@@ -1,0 +1,10 @@
+{
+  "name": "hands-on-discovery",
+  "description": "Hands-on followup to the Discovery Services Client API talk",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "discovery-services-client": "*",
+    "express": "*"
+  }
+}
