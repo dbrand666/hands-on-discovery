@@ -5,9 +5,9 @@ Let's make a discovery-enabled web service!
 
 There are a couple of possible starting points:
 
-1. Leon's contributed a skeleton REST server, rest.js.
+1. Leon's contributed a skeleton REST server, rest-server.js.
 
-   a. Try adding a discovery rest endpoint to it - you can start with the restAPI.json I started.
+   a. Try adding a discovery rest endpoint to it - you can start with the restAPI.json and rest-client.js I started.
 
    b. Make the server do something!
 
@@ -16,3 +16,7 @@ There are a couple of possible starting points:
    a. Write a discovery rest document for it.
 
    b. Try it out!
+   
+3. If you're feeling really ambitious, try to build something like the Google API Explorer.
+
+   a. You'll either need to add (at least) description and parameter info to our REST.json files, or use one of Google's.
