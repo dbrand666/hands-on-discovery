@@ -20,3 +20,5 @@ There are a couple of possible starting points:
 3. If you're feeling really ambitious, try to build something like the Google API Explorer.
 
    a. You'll either need to add (at least) description and parameter info to our REST.json files, or use one of Google's.
+
+Presentation is [here](http://prezi.com/enznyj8l5t3e/leveraging-google-apis-to-make-your-restful-api-self-documented-and-discoverable/?kw=view-enznyj8l5t3e&rc=ref-26128119)
